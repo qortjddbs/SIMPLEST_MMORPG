@@ -58,3 +58,9 @@ int d_ms = static_cast<int>(now_ms - move_packet->move_time);
 
 if (global_delay < d_ms) global_delay++;
 else if (global_delay > d_ms) global_delay--;
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025년 1학기 - 후레쉬맨 모작 개발 -> https://youtu.be/xrWP2p0KoEA
+2025년 2학기 - 바운스 어택 모작 개발 -> https://youtu.be/BizjzUaK3rM?si=aOZZC9m84rD2Bu-V
+             - 3D 바운스볼 개발 -> https://youtu.be/3olYj93gBIk?si=OS8bPVdlrqHCQy_J
